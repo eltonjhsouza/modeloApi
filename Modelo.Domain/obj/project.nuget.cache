@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTHGudhkw5QYZYJ3Sx41aBaGA7VJgdzH9juurbhXS0YWyhzLtJbTQaiUA24xo7CNF/fklaHUxJ3Jg3mxpyy69w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Playlist\\source\\repos\\Modelo\\Modelo.Domain\\Modelo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Playlist\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Playlist\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\Playlist\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\Playlist\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
